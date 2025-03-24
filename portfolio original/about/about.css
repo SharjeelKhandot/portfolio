@@ -1,0 +1,38 @@
+*{
+    font-family:system-ui;
+    background-color: #5C7285;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+.title{
+    height: 60px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+h4{ 
+    font-weight:700 ;
+} 
+
+.para{
+    height: 500px;
+    width: 500px;
+    margin:150px 150px 0px 150px;
+    
+}
+
+.button{
+    height:200px ;
+    width: 250px;
+    padding-left: 320px;
+    padding-bottom: 200px;
+}
